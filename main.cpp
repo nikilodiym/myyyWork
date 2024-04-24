@@ -10,7 +10,7 @@ int main() {
 
     R0 = 1.0 / (1.0 / R1 + 1.0 / R2 + 1.0 / R3);
 
-    cout << "Значення опору R0: " << R0 << endl;
+    cout << "Resistance value R0: " << R0 << endl;
 
     system("pause");
     return 0;
